@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: jaminova/wanderlust-backend-beta:v4
+          image: jaminova/wanderlust-backend-beta:v5
           ports:
             - containerPort: 8080
 ---
